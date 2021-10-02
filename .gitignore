@@ -1,0 +1,4 @@
+/node_modules
+/allure-results
+/mochawesome-report
+package-lock.json
